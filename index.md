@@ -9,14 +9,6 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 
 
-### Recent News
-
-- *Coming soon...*
-
-[more news >>](/news.md)
-
-
-
 ### Recent publications
 
 1. Geniesse, C., Geniesse, C., Sporns, O., Petri, G., & Saggar, M. (2019). [Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00093). Network Neuroscience. Advance publication. doi:10.1162/netn_a_00093 [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
