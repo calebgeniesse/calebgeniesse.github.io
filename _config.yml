@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            calebgeniesse
 tagline:          'Caleb Geniesse'
-description:      'graduate student in biophysics <a href="https://github.com/Stanford" target="_blank">@Stanford</a> <a href="https://github.com/braindynamicslab" target="_blank">@braindynamicslab</a>.'
+description:      'graduate student in biophysics <a href="https://github.com/Stanford" target="_blank">@stanford</a> <a href="https://github.com/braindynamicslab" target="_blank">@braindynamicslab</a>'
 url:              http://calebgeniesse.github.io
 baseurl:          /
 
@@ -19,7 +19,5 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/calebgeniesse
