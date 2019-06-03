@@ -1,0 +1,41 @@
+
+/* 
+ * This maintains a constant counter across multiple bibliography lists
+ */
+
+html {
+  counter-reset: bib;
+}
+
+ol.bibliography {
+  list-style-type: None;
+}
+
+ol.bibliography li:before {
+  content: counter(bib, decimal) '. ';
+  counter-increment: bib;
+  float: left;
+  width: 1.5rem;
+  margin-right: .4rem;
+  margin-left: -1.9rem;
+  text-align: right;
+}
+
+div.more {
+  text-align: right
+}
+
+div.more a:after { 
+  content: " >>";
+}
+
+.icon > svg {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  vertical-align: middle;
+}
+
+.icon > svg path {
+    fill: #fff;
+}
