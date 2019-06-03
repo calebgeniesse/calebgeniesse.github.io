@@ -5,13 +5,13 @@ title: Home
 
 ## Caleb Geniesse
 
-I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/). My research applies ideas from topological data analysis and machine learning to neuroimaging data analysis and aims to develop new computational tools for capturing and quantifying fluctuations in brain dynamics. 
+I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/), where I am developing new computational tools for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
 
 
 
 ### Current projects
 
-- [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for generating dynamical spatiotemporal representations of neuroimaging data using topological data analysis. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of high-dimensional neuroimaging data.
+- [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for generating dynamical spatiotemporal representations of functional brain activity using topological data analysis. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of high-dimensional neuroimaging data.
 
 [more projects >>](/code.md)
 
