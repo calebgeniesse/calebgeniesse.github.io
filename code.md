@@ -8,8 +8,7 @@ Below is a collection of code that I have developed throughout my research, with
 
 ### Current research
 
-- [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for generating dynamical neuroimaging spatiotemporal representations using topological data analysis. *dyneusr* provides a high-level interface for interacting with and manipulating shape graph representations of neuroimaging data and relating these representations back to neurophysiology.
-
+- [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for generating dynamical spatiotemporal representations of functional brain activity using topological data analysis. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of high-dimensional neuroimaging data.
 
 ### Other projects
 
