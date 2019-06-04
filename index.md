@@ -8,8 +8,11 @@ title: Home
 
 I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/). My research focuses on developing new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
 
+<div class="more">
+</div>
 
-### Current projects
+
+### Recent projects
 
 - [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of functional brain activity.
 
