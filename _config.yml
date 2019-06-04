@@ -12,7 +12,7 @@ tagline:          'Caleb Geniesse'
 description:      'capturing brain dynamics with topological data analysis'
 
 url:              https://calebgeniesse.github.io
-baseurl:          /
+baseurl:          https://calebgeniesse.github.io/
 
 author:
   name:           'Mark Otto'
