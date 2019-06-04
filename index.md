@@ -5,7 +5,7 @@ title: Home
 
 ## Caleb Geniesse
 
-I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/), where I am developing new computational tools for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
+I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/). My research focuses on developing new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
 
 
 
