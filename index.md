@@ -11,7 +11,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 ### Current projects
 
-- [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for generating dynamical spatiotemporal representations of functional brain activity using topological data analysis. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of high-dimensional neuroimaging data.
+- [dyneusr](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of functional brain activity.
 
 [more projects >>](/code.md)
 
