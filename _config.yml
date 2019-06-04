@@ -8,7 +8,9 @@ permalink:        pretty
 # Setup
 title:            calebgeniesse
 tagline:          'Caleb Geniesse'
-description:      'graduate student in biophysics <a href="https://github.com/Stanford" target="_blank">@stanford</a> <a href="https://github.com/braindynamicslab" target="_blank">@braindynamicslab</a>'
+#description:      'graduate student in biophysics <a href="https://github.com/Stanford" target="_blank">@stanford</a> <a href="https://github.com/braindynamicslab" target="_blank">@braindynamicslab</a>'
+description:      'capturing brain dynamics with topological data analysis'
+
 url:              https://calebgeniesse.github.io
 baseurl:          /
 
