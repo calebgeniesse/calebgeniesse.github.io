@@ -3,7 +3,7 @@ layout: page
 title: Code
 ---
 
-Below is a collection of code that I have developed throughout my research, with more recent work near the top. Most of these projects can also be found on my [GitHub](https://github.com/calebgeniesse).
+Below are some of the projects that I have developed throughout my research. More projects can also be found on my [GitHub](https://github.com/calebgeniesse).
 
 
 ### Recent projects
