@@ -34,3 +34,5 @@ Below is a collection of my publications. A more complete list can be found on [
 ### Conference abstracts
 
 - *coming soon...*
+
+- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Entropy-based interactive exploration of brain dynamics at multiple scales during ongoing cognition. Poster accepted for presentation at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020, Montreal, Canada. (\*equal contribution)

@@ -25,7 +25,12 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 ### Recent publications
 
-1. **Geniesse, C.**, Sporns, O., Petri, G., & Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
+- Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\], Koepnick., B. (*in press*). Macromolecular modeling and design in Rosetta: new methods and frameworks. *Nature Methods*. [[preprint](https://www.preprints.org/manuscript/201904.0263/v3)]
+
+- Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity. *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers. [[doi](https://doi.org/10.1007/978-3-030-28960-7_10
+)]
+
+- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
 
 <div class="more">
