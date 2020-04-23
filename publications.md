@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Below is a collection of my publications. A more complete list can be found on [Google Scholar](https://scholar.google.com/citations?user=S5lu_LAAAAAJ).
+A more complete list can be found on [Google Scholar](https://scholar.google.com/citations?user=S5lu_LAAAAAJ).
 
 
 
