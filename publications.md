@@ -7,7 +7,7 @@ Below is a collection of my publications. A more complete list can be found on [
 
 
 
-### Peer-Reviewed Articles
+### Peer-reviewed articles
 
 1. **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
@@ -24,13 +24,13 @@ Below is a collection of my publications. A more complete list can be found on [
 
 
 
-### Book Chapters
+### Book chapters
 
 1. Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity. *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers. [[doi](https://doi.org/10.1007/978-3-030-28960-7_10
 )]
 
 
 
-### Conference Abstracts
+### Conference abstracts
 
 - *coming soon...*
