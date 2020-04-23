@@ -27,6 +27,8 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 - Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\], Koepnick., B. (*in press*). Macromolecular modeling and design in Rosetta: new methods and frameworks. *Nature Methods*. [[preprint](https://www.preprints.org/manuscript/201904.0263/v3)]
 
+- Miao, Z., \[et al, including **Geniesse, C.**\], Westhof, E. (*in press*). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*.
+
 - Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity. *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers. [[doi](https://doi.org/10.1007/978-3-030-28960-7_10
 )]
 

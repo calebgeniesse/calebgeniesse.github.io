@@ -9,11 +9,11 @@ Below is a collection of my publications. A more complete list can be found on [
 
 ### Peer-reviewed articles
 
-- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
-
 - Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\], Koepnick., B. (*in press*). Macromolecular modeling and design in Rosetta: new methods and frameworks. *Nature Methods*. [[preprint](https://www.preprints.org/manuscript/201904.0263/v3)]
 
 - Miao, Z., \[et al, including **Geniesse, C.**\], Westhof, E. (*in press*). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*.
+
+- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
 - Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., **Geniesse, C.**, Pappu, A. S., Leswing, K., Pande, V. S. (2018). MoleculeNet: a benchmark for molecular machine learning. *Chemical Science*. 9. 513-530. [[doi](https://doi.org/10.1039/C7SC02664A)] [[pdf](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c7sc02664a)]
 
@@ -34,5 +34,3 @@ Below is a collection of my publications. A more complete list can be found on [
 ### Conference abstracts
 
 - *coming soon...*
-
-- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Entropy-based interactive exploration of brain dynamics at multiple scales during ongoing cognition. Poster accepted for presentation at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020, Montreal, Canada. (\*equal contribution)
