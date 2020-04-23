@@ -33,4 +33,4 @@ Below is a collection of my publications. A more complete list can be found on [
 
 ### Conference Abstracts
 
-*coming soon!*
+- *coming soon...*
