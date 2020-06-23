@@ -11,7 +11,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\]. (2020). Macromolecular modeling and design in Rosetta: recent methods and frameworks. *Nature Methods*. [[doi](https://doi.org/10.1038/s41592-020-0848-2)]
 
-- Miao, Z., \[et al, including **Geniesse, C.**\], Westhof, E. (*in press*). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*.
+- Miao, Z., \[et al, including **Geniesse, C.**\]. (2020). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*. [[doi](https://doi.org/10.1261/rna.075341.120)]
 
 - **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
@@ -19,7 +19,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - Watkins, A., **Geniesse, C.**, Kladwang, W., Zakrevsky, P., Jaeger, L., Das, R. (2018). Blind prediction of noncanonical RNA structure at atomic accuracy. *Science Advances*. 4 (5). eaar5316. [[doi](https://doi.org/10.1126/sciadv.aar5316)] [[pdf](https://advances.sciencemag.org/content/advances/4/5/eaar5316.full.pdf)]
 
-- Miao, Z., Adamiak, R. W., Antczak, M., \[et al, including **Geniesse, C.**\], Westhof, E. (2017). RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme. *RNA*. 23. 655-672. [[doi](https://doi.org/10.1261/rna.060368.116)]
+- Miao, Z., Adamiak, R. W., Antczak, M., \[et al, including **Geniesse, C.**\]. (2017). RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme. *RNA*. 23. 655-672. [[doi](https://doi.org/10.1261/rna.060368.116)]
 
 
 
