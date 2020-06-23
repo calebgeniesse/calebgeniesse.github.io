@@ -33,4 +33,4 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Conference abstracts
 
-- *coming soon...*
+- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Exploring the landscape of brain dynamics using topological data analysis. Poster presented at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020. (\*equal contribution) [[pdf](https://github.com/calebgeniesse.github.io/blob/master/public/posters/Geniess_Chowdhury_2020_OHBM.pdf)]
