@@ -25,16 +25,15 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 ### Recent publications
 
-- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Exploring the landscape of brain dynamics using topological data analysis. Poster presented at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020. (\*equal contribution) [[pdf](https://github.com/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf)]
+- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Exploring the landscape of brain dynamics using topological data analysis. Poster presented at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020. (\*equal contribution) [[pdf](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf)]
 
-- Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\]. (2020). Macromolecular modeling and design in Rosetta: recent methods and frameworks. *Nature Methods*. [[doi](https://doi.org/10.1038/s41592-020-0848-2)]
+- Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\]. (2020). Macromolecular modeling and design in Rosetta: recent methods and frameworks. *Nature Methods*. [https://doi.org/10.1038/s41592-020-0848-2](https://doi.org/10.1038/s41592-020-0848-2)
 
-- Miao, Z., \[et al, including **Geniesse, C.**\]. (2020). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*. [[doi](https://doi.org/10.1261/rna.075341.120)]
+- Miao, Z., \[et al, including **Geniesse, C.**\]. (2020). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*. [https://doi.org/10.1261/rna.075341.120](https://doi.org/10.1261/rna.075341.120)
 
-- Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity. *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers. [[doi](https://doi.org/10.1007/978-3-030-28960-7_10
-)]
+- Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity. *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers. [https://doi.org/10.1007/978-3-030-28960-7_10](https://doi.org/10.1007/978-3-030-28960-7_10)
 
-- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[doi](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
+- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [https://doi.org/10.1162/netn_a_00093](https://doi.org/10.1162/netn_a_00093) [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
 
 <div class="more">
