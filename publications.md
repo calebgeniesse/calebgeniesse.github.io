@@ -9,7 +9,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed articles
 
-- Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\], Koepnick., B. (*in press*). Macromolecular modeling and design in Rosetta: new methods and frameworks. *Nature Methods*. [[preprint](https://www.preprints.org/manuscript/201904.0263/v3)]
+- Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\]. (2020). Macromolecular modeling and design in Rosetta: recent methods and frameworks. *Nature Methods*. [[doi](https://doi.org/10.1038/s41592-020-0848-2)]
 
 - Miao, Z., \[et al, including **Geniesse, C.**\], Westhof, E. (*in press*). RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers. *RNA*.
 
