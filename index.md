@@ -25,7 +25,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 ### Recent publications
 
-- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Exploring the landscape of brain dynamics using topological data analysis. Poster presented at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020. *\*equal contribution* [[pdf](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf)] 
+- **Geniesse, C.**\*, Chowdhury, S.\*, Saggar, M. (2020). Exploring the landscape of brain dynamics using topological data analysis. Poster presented at: The Organization for *Human Brain Mapping* (OHBM) Annual Meeting, 2020. (*\*equal contribution*) [[pdf](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf)] 
 
 - Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\]. (2020). Macromolecular modeling and design in Rosetta: recent methods and frameworks. *Nature Methods*. [[link](https://doi.org/10.1038/s41592-020-0848-2)]
 
