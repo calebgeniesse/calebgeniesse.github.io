@@ -15,7 +15,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis. *Network Neuroscience*. [[link](https://doi.org/10.1162/netn_a_00093)] [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
-- Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., **Geniesse, C.**, Pappu, A. S., Leswing, K., Pande, V. S. (2018). MoleculeNet: a benchmark for molecular machine learning. *Chemical Science*. 9. 513-530.[[link](https://doi.org/10.1039/C7SC02664A)] [[pdf](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c7sc02664a)]
+- Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., **Geniesse, C.**, Pappu, A. S., Leswing, K., Pande, V. S. (2018). MoleculeNet: a benchmark for molecular machine learning. *Chemical Science*. 9. 513-530. [[link](https://doi.org/10.1039/C7SC02664A)] [[pdf](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c7sc02664a)]
 
 - Watkins, A., **Geniesse, C.**, Kladwang, W., Zakrevsky, P., Jaeger, L., Das, R. (2018). Blind prediction of noncanonical RNA structure at atomic accuracy. *Science Advances*. 4 (5). eaar5316. [[link](https://doi.org/10.1126/sciadv.aar5316)] [[pdf](https://advances.sciencemag.org/content/advances/4/5/eaar5316.full.pdf)]
 
