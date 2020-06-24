@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background
+title: About
 ---
 
 <p>
