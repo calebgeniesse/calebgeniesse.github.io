@@ -11,7 +11,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - Koehler Leman, J., Weitzner, B. D., Lewis, S. M., \[et al, including **Geniesse, C.**\] (2020). [**Macromolecular modeling and design in Rosetta: recent methods and frameworks.**](https://doi.org/10.1038/s41592-020-0848-2) *Nature Methods*.
 
-- Miao, Z., \[et al, including **Geniesse, C.**\]. (2020). [**RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers.**](https://doi.org/10.1261/rna.075341.120) *RNA*. 
+- Miao, Z., \[et al, including **Geniesse, C.**\] (2020). [**RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers.**](https://doi.org/10.1261/rna.075341.120) *RNA*. 
 
 - **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). [**Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis.**](https://doi.org/10.1162/netn_a_00093) *Network Neuroscience*. [[**code**](https://braindynamicslab.github.io/dyneusr)] [[**demos**](https://braindynamicslab.github.io/dyneusr/demo/)]
 
@@ -26,7 +26,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Book chapters
 
-- Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). [**Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.**](https://doi.org/10.1007/978-3-030-28960-7_10) *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers.
+- Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). [**Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.**](https://doi.org/10.1007/978-3-030-28960-7_10) *Design Thinking Research. Understanding Innovation. Springer Verlag Publishers*.
 
 
 
