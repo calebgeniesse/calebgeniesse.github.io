@@ -12,7 +12,7 @@ title:
 I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/). My research focuses on developing new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
 
 <div class="more">
-	<a href="code/">more about me</a>
+	<a href="about-me/">more about me</a>
 </div>
 
 
@@ -24,7 +24,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 - [**dyneusr-fire**](https://braindynamicslab.github.io/dyneusr-fire/). A command line interface for *dyneusr* based on the Python Fire library. The package wraps *kmapper* and *dyneusr* into a single pipeline and automatically generates a simple command line interface that allows users to customize this pipeline. 
 
 <div class="more">
-	<a href="code/">more projects</a>
+	<a href="projects/">more projects</a>
 </div>
 
 
