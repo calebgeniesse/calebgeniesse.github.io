@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code
+title: Projects
 ---
 
 Below are some of the projects I have developed throughout my research. Most of these (and more) can also be found on my [GitHub](https://github.com/calebgeniesse).
