@@ -23,3 +23,6 @@ paginate:         5
 # Custom vars
 github:
   repo:           https://github.com/calebgeniesse
+
+twitter:
+  repo:           https://twitter.com/calebgeniesse
