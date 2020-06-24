@@ -14,9 +14,9 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 ### Recent projects
 
-- [**dyneusr**.](https://braindynamicslab.github.io/dyneusr/) A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of functional brain activity.
+- [**dyneusr**](https://braindynamicslab.github.io/dyneusr/). A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizaing topological graph representations of functional brain activity.
 
-- [**dyneusr-fire**.](https://braindynamicslab.github.io/dyneusr-fire/) A command line interface for *dyneusr* based on the Python Fire library. The package wraps *kmapper* and *dyneusr* into a single pipeline and automatically generates a simple command line interface that allows users to customize this pipeline. 
+- [**dyneusr-fire**](https://braindynamicslab.github.io/dyneusr-fire/). A command line interface for *dyneusr* based on the Python Fire library. The package wraps *kmapper* and *dyneusr* into a single pipeline and automatically generates a simple command line interface that allows users to customize this pipeline. 
 
 <div class="more">
 	<a href="code/">more projects</a>
@@ -33,7 +33,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 - Sonalkar, N., Jahanikia, S., Xie, H., **Geniesse, C.**, Ayub, R., Beaty, R., Saggar, M. (2020). [**Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.**](https://doi.org/10.1007/978-3-030-28960-7_10) *Design Thinking Research Understanding Innovation*. Springer Verlag Publishers.
 
-- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). [**Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis.**](https://doi.org/10.1162/netn_a_00093) *Network Neuroscience*. [[pdf](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
+- **Geniesse, C.**, Sporns, O., Petri, G., Saggar, M. (2019). [**Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis.**](https://doi.org/10.1162/netn_a_00093) *Network Neuroscience*. [[**pdf**](https://www.mitpressjournals.org/doi/pdfplus/10.1162/netn_a_00093)] [[**code**](https://braindynamicslab.github.io/dyneusr)] [[**demos**](https://braindynamicslab.github.io/dyneusr/demo/)]
 
 <div class="more">
 	<a href="publications/">more publications</a>
