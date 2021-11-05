@@ -9,7 +9,7 @@ title:
 
 
 
-I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and currently a member of the [brain dynamics lab @ stanford](http://web.stanford.edu/group/bdl/). My research focuses on developing new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
+I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and a member of the [brain dynamics lab @ stanford](https://braindynamicslab.github.io). My research focuses on developing new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
 
 <div class="more">
 	<a href="about-me/">more about me</a>
@@ -17,7 +17,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 
 
-### Recent projects
+### Recent Projects
 
 - **[DyNeuSR.](https://braindynamicslab.github.io/dyneusr/)**&nbsp;A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizing topological graph representations of functional brain activity.
 
@@ -29,7 +29,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 </div>
 
 
-### Recent publications
+### Recent Publications
 
 - Geniesse, C.\*, Chowdhury, S.\*, Saggar, M. [Exploring the landscape of brain dynamics using topological data analysis.](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf) Poster presented at: *The Organization for Human Brain Mapping (OHBM) Annual Meeting*, 2020. (*\*equal contribution*) 
 
