@@ -37,7 +37,7 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 - H Xie, RE Beaty, S Jahanikia, **C Geniesse**, NS Sonalkar, M Saggar. **[Spontaneous and deliberate modes of creativity: Multitask eigen-connectivity analysis captures latent cognitive modes during creative thinking.](https://doi.org/10.1016/j.neuroimage.2021.118531)** *NeuroImage*, 2021.
 
-- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer Verlag Publishers*, 2020.
+- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer, Cham*, 2020.
 
 - **C Geniesse**, O Sporns, G Petri, M Saggar. **[Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis.](https://doi.org/10.1162/netn_a_00093)** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
