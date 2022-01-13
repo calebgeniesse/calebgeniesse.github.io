@@ -8,6 +8,9 @@ title:
 
 
 
+<p>
+	<img src="{{ site.baseurl }}/public/images/me2.png?s=250" style="max-width:250px; margin: 1em; float: right">
+</p>
 
 I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/) and a member of the [brain dynamics lab @ stanford](https://braindynamicslab.github.io). My research focuses on developing new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis.
 
