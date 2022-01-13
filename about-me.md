@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p>
-	<img src="{{ site.baseurl }}/public/images/me.jpg?s=250" style="max-width:250px; margin: 1em; float: right">
+	<img src="{{ site.baseurl }}/public/images/me2.png?s=250" style="max-width:250px; margin: 1em; float: right">
 </p>
 
 
