@@ -9,7 +9,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
-- **C Geniesse**\*, S Chowdhury, M Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization.](https://doi.org/10.1162/netn_a_00229)** *Network Neuroscience*, 2021. (*\*equal contribution*) 
+- **C Geniesse**\*, S Chowdhury\*, M Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization.](https://doi.org/10.1162/netn_a_00229)** *Network Neuroscience*, 2021. (*\*equal contribution*) 
 
 - H Xie, RE Beaty, S Jahanikia, **C Geniesse**, NS Sonalkar, M Saggar. **[Spontaneous and deliberate modes of creativity: Multitask eigen-connectivity analysis captures latent cognitive modes during creative thinking.](https://doi.org/10.1016/j.neuroimage.2021.118531)** *NeuroImage*, 2021.
 
