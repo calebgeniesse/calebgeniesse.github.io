@@ -32,7 +32,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Book Chapters
 
-- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer Verlag Publishers*, 2020.
+- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer, Cham*, 2020.
 
 
 
