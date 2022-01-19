@@ -23,7 +23,6 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 - **[DyNeuSR.](https://braindynamicslab.github.io/dyneusr/)**&nbsp;A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizing topological graph representations of functional brain activity.
 
-- **[DyNeuSR Fire.](https://braindynamicslab.github.io/dyneusr-fire/)**&nbsp;A command line interface for [DyNeuSR](https://braindynamicslab.github.io/dyneusr/) based on the [Python Fire](https://github.com/google/python-fire) library. The package wraps [KeplerMapper](https://kepler-mapper.scikit-tda.org/en/latest/) and [DyNeuSR](https://braindynamicslab.github.io/dyneusr/) into a single pipeline and automatically generates a simple command line interface that allows users to customize this pipeline. 
 
 
 <div class="more">
@@ -34,13 +33,11 @@ I am a graduate student in the [Biophysics Program](http://med.stanford.edu/biop
 
 ### Selected Publications
 
-- **C Geniesse**\*, S Chowdhury\*, M Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization.](https://doi.org/10.1162/netn_a_00229)** *Network Neuroscience*, 2021. (*\*equal contribution*) 
+- **C Geniesse**\*, S Chowdhury\*, M Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization.](https://doi.org/10.1162/netn_a_00229)** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
 - H Xie, RE Beaty, S Jahanikia, **C Geniesse**, NS Sonalkar, M Saggar. **[Spontaneous and deliberate modes of creativity: Multitask eigen-connectivity analysis captures latent cognitive modes during creative thinking.](https://doi.org/10.1016/j.neuroimage.2021.118531)** *NeuroImage*, 2021.
 
-- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer Verlag Publishers*, 2020.
-
-- **C Geniesse**\*, S Chowdhury\*, M Saggar. **[Exploring the landscape of brain dynamics using topological data analysis.](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf)** Poster presented at: *The Organization for Human Brain Mapping (OHBM) Annual Meeting*, 2020. (*\*equal contribution*) 
+- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer, Cham*, 2020.
 
 - **C Geniesse**, O Sporns, G Petri, M Saggar. **[Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis.](https://doi.org/10.1162/netn_a_00093)** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 

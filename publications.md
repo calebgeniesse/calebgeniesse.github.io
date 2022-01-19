@@ -9,7 +9,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
-- **C Geniesse**\*, S Chowdhury\*, M Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization.](https://doi.org/10.1162/netn_a_00229)** *Network Neuroscience*, 2021. (*\*equal contribution*) 
+- **C Geniesse**\*, S Chowdhury\*, M Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization.](https://doi.org/10.1162/netn_a_00229)** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
 - H Xie, RE Beaty, S Jahanikia, **C Geniesse**, NS Sonalkar, M Saggar. **[Spontaneous and deliberate modes of creativity: Multitask eigen-connectivity analysis captures latent cognitive modes during creative thinking.](https://doi.org/10.1016/j.neuroimage.2021.118531)** *NeuroImage*, 2021.
 
@@ -32,7 +32,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Book Chapters
 
-- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer Verlag Publishers*, 2020.
+- N Sonalkar, S Jahanikia, H Xie, **C Geniesse**, R Ayub, RE Beaty, M Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity.](https://doi.org/10.1007/978-3-030-28960-7_10)** *Design Thinking Research. Understanding Innovation. Springer, Cham*, 2020.
 
 
 
