@@ -38,6 +38,6 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Conference Abstracts
 
-- **C Geniesse**, J Bruno, H Xie, S Jahanikia, NS Sonalkar, M Saggar. **Examining brain dynamics associated with trait rumination using video self-reflection.** Late-breaking poster presented at the *Society of Biological Psychiatry (SOBP) Annual Meeting*, 2022.
+- **C Geniesse**, J Bruno, H Xie, S Jahanikia, NS Sonalkar, M Saggar. **[Examining brain dynamics associated with trait rumination using video self-reflection.]()** Late-breaking poster presented at the *Society of Biological Psychiatry (SOBP) Annual Meeting*, 2022.
 
 - **C Geniesse**\*, S Chowdhury\*, M Saggar. **[Exploring the landscape of brain dynamics using topological data analysis.](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-Chowdhury-2020-OHBM.pdf)** Poster presented at the *Organization for Human Brain Mapping (OHBM) Annual Meeting*, 2020. (*\*equal contribution*) 
