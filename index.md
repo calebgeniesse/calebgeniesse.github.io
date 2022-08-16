@@ -5,7 +5,7 @@ title:
 
 
 # Caleb Geniesse
-I'm a PhD student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/). My current research revolves around developing and applying machine learning and topological data analysis to study the dynamical organization of the brain during ongoing cognition. More broadly, I'm interested in research at the interface of neuroscience and artificial intelligence, especially neuroscience-inspired AI.
+I'm a PhD student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/). My current research revolves around developing and applying machine learning and topological data analysis to study the brain's dynamical organization during ongoing cognition. More broadly, I'm interested in research at the interface of neuroscience and artificial intelligence, especially neuroscience-inspired AI.
 
 <div class="more">
 	<a href="about-me/">more about me</a>
