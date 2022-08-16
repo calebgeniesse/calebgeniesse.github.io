@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Caleb Geniesse
 tagline:          'Caleb Geniesse'
 #description:     'graduate student in biophysics <a href="https://github.com/Stanford" target="_blank">@stanford</a> <a href="https://github.com/braindynamicslab" target="_blank">@braindynamicslab</a>'
-description:      'visualizing the "shape" of brain dynamics'
+description:      'visualizing the "shape" of human brain dynamics'
 
 url:              /
 baseurl:          https://calebgeniesse.github.io
