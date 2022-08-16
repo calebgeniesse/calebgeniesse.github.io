@@ -21,7 +21,9 @@ author:
 paginate:         5
 
 # Custom vars
-github:
-  repo:           https://github.com/calebgeniesse
+linkedin:
+   url:           https://www.linkedin.com/in/calebgeniesse
 twitter:
   user:           https://twitter.com/calebgeniesse
+github:
+  repo:           https://github.com/calebgeniesse
