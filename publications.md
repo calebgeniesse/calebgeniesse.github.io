@@ -15,9 +15,9 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - H. Xie, R. Beaty, S. Jahanikia, **C. Geniesse**, N. Sonalkar, M. Saggar. **[Spontaneous and Deliberate Modes of Creativity: Multitask Eigen-Connectivity Analysis Captures Latent Cognitive Modes During Creative Thinking](https://doi.org/10.1016/j.neuroimage.2021.118531).** *NeuroImage*, 2021.
 
-- J. Koehler Leman, \[et al, including **C. Geniesse**\] **[Macromolecular Modeling and Design in Rosetta: Recent Methods and Frameworks](https://doi.org/10.1038/s41592-020-0848-2).** *Nature Methods*, 2020.
+- J. Koehler Leman, \[et al, including **C. Geniesse**\]. **[Macromolecular Modeling and Design in Rosetta: Recent Methods and Frameworks](https://doi.org/10.1038/s41592-020-0848-2).** *Nature Methods*, 2020.
 
-- Z. Miao, \[et al, including **C. Geniesse**\] **[RNA-Puzzles Round IV: 3D Structure Predictions of Four Ribozymes and Two Aptamers](https://doi.org/10.1261/rna.075341.120).** *RNA*, 2020.
+- Z. Miao, \[et al, including **C. Geniesse**\]. **[RNA-Puzzles Round IV: 3D Structure Predictions of Four Ribozymes and Two Aptamers](https://doi.org/10.1261/rna.075341.120).** *RNA*, 2020.
 
 - **C. Geniesse**, O. Sporns, G. Petri, M. Saggar. **[Generating Dynamical Neuroimaging Spatiotemporal Representations (DyNeuSR) Using Topological Data Analysis](https://doi.org/10.1162/netn_a_00093).** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
@@ -25,7 +25,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - A. Watkins, **C. Geniesse**, W. Kladwang, P. Zakrevsky, L. Jaeger, R. Das. **[Blind Prediction of Noncanonical RNA Structure at Atomic Accuracy](https://doi.org/10.1126/sciadv.aar5316).** *Science Advances*, 2018.
 
-- Z. Miao, \[et al, including **C. Geniesse**\] **[RNA-Puzzles Round III: 3D RNA Structure Prediction of Five Riboswitches and One Ribozyme](https://doi.org/10.1261/rna.060368.116).** *RNA*, 2017. 
+- Z. Miao, \[et al, including **C. Geniesse**\]. **[RNA-Puzzles Round III: 3D RNA Structure Prediction of Five Riboswitches and One Ribozyme](https://doi.org/10.1261/rna.060368.116).** *RNA*, 2017. 
 
 
 
