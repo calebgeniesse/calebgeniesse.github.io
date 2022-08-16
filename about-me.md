@@ -13,8 +13,9 @@ I earned my BS in [Molecular and Cellular Biology](https://mcb.illinois.edu/) fr
 
 Email: [geniesse \[at\] stanford \[dot\] edu]()
 <br>
-Twitter: [@calebgeniesse](https://twitter.com/calebgeniesse)
 <br>
 GitHub: [calebgeniesse](https://github.com/calebgeniesse)
 <br>
 Linkedin: [Caleb Geniesse](https://www.linkedin.com/in/calebgeniesse)
+<br>
+Twitter: [@calebgeniesse](https://twitter.com/calebgeniesse)
