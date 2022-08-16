@@ -11,7 +11,6 @@ I earned my BS in [Molecular and Cellular Biology](https://mcb.illinois.edu/) fr
 
 ### Contact Info
 
-<br>
 Email: [geniesse \[at\] stanford \[dot\] edu]()
 <br>
 <br>
