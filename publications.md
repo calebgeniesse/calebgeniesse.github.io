@@ -19,7 +19,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - Z. Miao, \[et al, including **C. Geniesse**\] **[RNA-Puzzles Round IV: 3D Structure Predictions of Four Ribozymes and Two Aptamers](https://doi.org/10.1261/rna.075341.120).** *RNA*, 2020.
 
-- **C Geniesse**, O Sporns, G Petri, M Saggar. **[Generating dynamical neuroimaging spatiotemporal representations (DyNeuSR) using topological data analysis.](https://doi.org/10.1162/netn_a_00093)** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
+- **C. Geniesse**, O. Sporns, G. Petri, M. Saggar. **[Generating Dynamical Neuroimaging Spatiotemporal Representations (DyNeuSR) Using Topological Data Analysis](https://doi.org/10.1162/netn_a_00093).** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
 - Z. Wu, B. Ramsundar, E. Feinberg, J. Gomes, **C. Geniesse**, A. Pappu, K. Leswing, V. Pande. **[MoleculeNet: A Benchmark for Molecular Machine Learning](https://doi.org/10.1039/C7SC02664A).** *Chemical Science*, 2018.
 
