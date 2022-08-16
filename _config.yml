@@ -21,6 +21,8 @@ author:
 paginate:         5
 
 # Custom vars
+gscholar:
+   url:           https://scholar.google.com/citations?user=S5lu_LAAAAAJ&hl=en
 linkedin:
    url:           https://www.linkedin.com/in/calebgeniesse
 twitter:
