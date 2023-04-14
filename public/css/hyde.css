@@ -247,3 +247,25 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+/* Caleb's custom theme (Dark Blue) */
+.theme-base-0cg1 .sidebar {
+  background-color: #00313C;
+}
+.theme-base-0c .content a,
+.theme-base-0c .related-posts li a:hover {
+  color: #00313C;
+}
+
+
+
+/* Caleb's custom theme (Teal) */
+.theme-base-0cg2 .sidebar {
+  background-color: #007681;
+}
+.theme-base-0c .content a,
+.theme-base-0c .related-posts li a:hover {
+  color: #007681;
+}
+

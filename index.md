@@ -5,7 +5,12 @@ title:
 
 
 # Caleb Geniesse
-I'm a PhD student in the [Biophysics Program](http://med.stanford.edu/biophysics.html) at [Stanford University](https://www.stanford.edu/). My current research revolves around developing and applying machine learning and topological data analysis to study the brain's dynamical organization during ongoing cognition. More broadly, I'm interested in research at the interface of neuroscience and artificial intelligence, especially neuroscience-inspired AI.
+
+I'm a Postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), where I'm currently exploring visualization for scientific ML. 
+
+I received my PhD in [Biophysics](http://med.stanford.edu/biophysics.html) from [Stanford University](https://www.stanford.edu/). My dissertation revolved around developing and applying new computational methods (i.e., using ML and topological data analysis) to study the brain's dynamical organization during ongoing cognition, and more broadly, I've always been interested in research at the interface between neuroscience and AI, especially neuroscience-inspired AI. 
+
+At Berkeley Lab, I'm pursuing more fundamental ML research (e.g., developing new ways to visualize loss landscapes and characterize learning) with more general scientific applications (e.g., from cosmology to climate change). 
 
 <div class="more">
 	<a href="about-me/">more about me</a>
