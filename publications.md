@@ -38,9 +38,9 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Conference Abstracts
 
-- E. Tran, **C. Geniesse**, E. Finn, M. Saggar. **[Linking Event Memories Formed During Naturalistic Narratives with Attentional Engagement and Emotion](https://calebgeniesse.github.io/publications/#conference-abstracts).** *Organization for Human Brain Mapping (OHBM) Annual Meeting*, 2023.
+- E. Tran, **C. Geniesse**, E. Finn, M. Saggar. **<a style="text-decoration:none">Linking Event Memories Formed During Naturalistic Narratives with Attentional Engagement and Emotion</a>.** *Organization for Human Brain Mapping (OHBM) Annual Meeting*, 2023.
 
-- D. Haşegan, **C. Geniesse**, S. Chowdhury, M. Saggar. **[Deconstructing Mapper to Reveal the Brain’s Dynamic Organization](https://calebgeniesse.github.io/publications/#conference-abstracts).** *Computational Psychiatry Course*, 2022.
+- D. Haşegan, **C. Geniesse**, S. Chowdhury, M. Saggar. **<a style="text-decoration:none">Deconstructing Mapper to Reveal the Brain’s Dynamic Organization</a>.** *Computational Psychiatry Course*, 2022.
 
 - **C. Geniesse**, J. Bruno, H. Xie, S. Jahanikia, N. Sonalkar, M. Saggar. **[Examining Brain Dynamics Associated with Trait Rumination Using Video Self-Reflection](https://github.com/calebgeniesse/calebgeniesse.github.io/blob/master/public/posters/Geniesse-2022-SOBP.pdf).** *Society of Biological Psychiatry (SOBP) Annual Meeting*, 2022.
 
