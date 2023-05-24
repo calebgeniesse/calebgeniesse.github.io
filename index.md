@@ -8,7 +8,7 @@ title:
 
 I received my PhD in [Biophysics](http://med.stanford.edu/biophysics.html) from [Stanford](https://www.stanford.edu/), where my dissertation revolved around developing and applying new computational methods (i.e., using ML and topological data analysis) to study the brain's dynamical organization during ongoing cognition. More broadly, I've always been interested in research at the interface between neuroscience and AI, especially neuroscience-inspired AI. 
 
-I recently started my Postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). Here, my research will explore more fundamental ML (e.g., developing new ways to visualize loss landscapes and characterize learning) with more general scientific applications (e.g., from cosmology to climate change).
+I recently started my Postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). Here, my research will explore more fundamental ML (e.g., developing new ways to visualize loss landscapes and characterize learning) with more general scientific applications.
 
 
 <div class="more">
