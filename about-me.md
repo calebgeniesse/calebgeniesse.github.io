@@ -19,8 +19,6 @@ Email (*Stanford*): [geniesse \[at\] stanford \[dot\] edu]()
 <br>
 Email (*Berkeley Lab*): [cgeniesse \[at\] lbl \[dot\] gov]()
 
-<br>
-<br>
 
 Linkedin: [Caleb Geniesse](https://www.linkedin.com/in/calebgeniesse)
 <br>
