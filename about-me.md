@@ -13,11 +13,13 @@ I earned my BS in [Molecular and Cellular Biology](https://mcb.illinois.edu/) fr
 
 ### Contact Info
 
-Email (*Personal*): [calebgeniesse \[at\] gmail \[dot\] com]()
+Email: [calebgeniesse \[at\] gmail \[dot\] com]()
+<!--
 <br>
 Email (*Stanford*): [geniesse \[at\] stanford \[dot\] edu]()
 <br>
 Email (*Berkeley Lab*): [cgeniesse \[at\] lbl \[dot\] gov]()
+-->
 
 
 Linkedin: [Caleb Geniesse](https://www.linkedin.com/in/calebgeniesse)
