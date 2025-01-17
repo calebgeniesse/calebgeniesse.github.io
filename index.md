@@ -6,9 +6,11 @@ title:
 
 # Caleb Geniesse
 
-I'm a Postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), doing visualization for scientific ML (e.g., developing new ways to visualize loss landscapes and characterize learning) with diverse scientific applications (e.g., physics-informed neural networks, weather forecasting).
+I recently started as a senior machine learning scientist at a stealth health tech startup. More on this soon...
 
-I did my PhD in [Biophysics](http://med.stanford.edu/biophysics.html) at [Stanford](https://www.stanford.edu/), where my dissertation revolved around developing and applying new computational methods (i.e., using ML and topological data analysis) to study the brain's dynamical organization during ongoing cognition. More broadly, I've always been interested in research at the interface between neuroscience and AI, especially neuroscience-inspired AI. 
+Before this, I was a postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), doing visualization for scientific ML (e.g., developing new ways to visualize loss landscapes and characterize learning) with diverse scientific applications (e.g., physics-informed neural networks, weather forecasting).
+
+I did my PhD in [Biophysics](http://med.stanford.edu/biophysics.html) at [Stanford](https://www.stanford.edu/), where my dissertation revolved around developing and applying new computational methods (i.e., using ML and topological data analysis) to study the brain's dynamical organization during ongoing cognition. <!--More broadly, I've always been interested in research at the interface between neuroscience and AI, especially neuroscience-inspired AI. --> 
 
 <div class="more">
 	<a href="about-me/">more about me</a>
