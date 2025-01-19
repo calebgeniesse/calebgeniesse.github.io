@@ -9,6 +9,8 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
+- D. Hasegan, **C. Geniesse**, S. Chowdhury, M. Saggar. **[Deconstructing the Mapper Algorithm to Extract Richer Topological and Temporal Features from Functional Neuroimaging Data](https://doi.org/10.1162/netn_a_00403).** *Network Neuroscience*, 2024. [[code](https://github.com/braindynamicslab/demapper)]
+
 - **C. Geniesse**\*, S. Chowdhury\*, M. Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization](https://doi.org/10.1162/netn_a_00229).** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
 - T. Morris, E. Sue, **C. Geniesse**, W. Brieher, V. Tang. **[Synaptopodin is Required for Stress Fiber and Contractomere Assembly at the Epithelial Junction](https://doi.org/10.1083/jcb.202011162).** *J. Cell Biology*, 2022.
