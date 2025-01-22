@@ -9,6 +9,8 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
+- F. Bu, \[et al, including **C. Geniesse**\]. **[RNA-Puzzles Round V: Blind Predictions of 23 RNA Structures](https://doi.org/10.1038/s41592-024-02543-9).** *Nature Methods*, 2024. 
+
 - S.K.L. Quah, B. Jo, **C. Geniesse**, L.Q. Uddin, J.A. Mumford, D.M. Barch, D.A. Fair, I.H. Gotlib, R.A. Poldrack, M. Saggar. **[A Data-Driven Latent Variable Approach to Validating the Research Domain Criteria Framework](https://doi.org/10.1038/s41467-025-55831-z).** *Nature Communications*, 2024.
 
 - D. Hasegan, **C. Geniesse**, S. Chowdhury, M. Saggar. **[Deconstructing the Mapper Algorithm to Extract Richer Topological and Temporal Features from Functional Neuroimaging Data](https://doi.org/10.1162/netn_a_00403).** *Network Neuroscience*, 2024. [[code](https://github.com/braindynamicslab/demapper)]
