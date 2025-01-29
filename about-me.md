@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I did my postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). There, my research explored visualization for scientific ML (e.g., developed new ways to visualize loss landscapes and characterize learning) with diverse scientific applications (e.g., physics-informed neural networks, weather forecasting).
+I did my postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). There, my research explored scientific ML (e.g., physics-informed neural networks) and interpretability (e.g., developing new ways to visualize loss landscapes and characterize learning).
 							  
 I earned my PhD in [Biophysics](http://med.stanford.edu/biophysics.html) from [Stanford University](https://www.stanford.edu/). For my dissertation, I worked with [Manish Saggar](https://web.stanford.edu/~saggar/newsite/index.html) in the [Brain Dynamics Lab](http://braindynamicslab.github.io/) to develop new computational methods for capturing and quantifying fluctuations in brain dynamics using ideas from machine learning and topological data analysis (TDA). My initial work in the lab focused on applying the Mapper algorithm from TDA to neuroimaging data and developing [DyNeuSR](https://braindynamicslab.github.io/dyneusr). Other projects included optimizing Mapper for neuroimaging data and exploring how Mapper (and other unsupervised techniques from TDA) can be combined with supervised learning approaches, for example, to develop more robust brain decoding models. 
 
