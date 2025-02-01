@@ -9,6 +9,8 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
+- T. Baldi, J. Campos, B. Hawks, J. Ngadiuba, N. Tran, D. Diaz, J. Duarte, R. Kastner, A. Meza, M. Quinnan, O. Weng, **C. Geniesse**, A. Gholami, M.W. Mahoney, V. Loncar, P. Harris, J. Agar, S. Qin. **[Reliable edge machine learning hardware for scientific application](https://doi.org/10.1109/VTS60656.2024.10538639).** *IEEE 42nd VLSI Test Symposium (VTS)*, 2024. [[pdf](https://escholarship.org/uc/item/66j3d6p5)]
+
 - F. Bu, \[et al, including **C. Geniesse**\]. **[RNA-Puzzles Round V: Blind Predictions of 23 RNA Structures](https://doi.org/10.1038/s41592-024-02543-9).** *Nature Methods*, 2024. 
 
 - S.K.L. Quah, B. Jo, **C. Geniesse**, L.Q. Uddin, J.A. Mumford, D.M. Barch, D.A. Fair, I.H. Gotlib, R.A. Poldrack, M. Saggar. **[A Data-Driven Latent Variable Approach to Validating the Research Domain Criteria Framework](https://doi.org/10.1038/s41467-025-55831-z).** *Nature Communications*, 2024.
