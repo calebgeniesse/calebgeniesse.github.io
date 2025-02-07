@@ -9,6 +9,8 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
+- O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. (2025). **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *In Proceedings of the ACM/SIGDA International Symposium on Field Programmable Gate Arrays*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
+
 - T. Baldi, \[et al, including **C. Geniesse**\]. **[Reliable edge machine learning hardware for scientific application](https://doi.org/10.1109/VTS60656.2024.10538639).** *IEEE 42nd VLSI Test Symposium*, 2024. [[pdf](https://escholarship.org/content/qt66j3d6p5/qt66j3d6p5.pdf)]
 
 - F. Bu, \[et al, including **C. Geniesse**\]. **[RNA-Puzzles Round V: Blind Predictions of 23 RNA Structures](https://doi.org/10.1038/s41592-024-02543-9).** *Nature Methods*, 2024. 
