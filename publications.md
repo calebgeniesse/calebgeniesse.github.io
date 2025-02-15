@@ -9,7 +9,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Peer-reviewed Articles
 
-- M. Sakarvadia, A. Ajith, A.M. Khan, N.C. Hudson, **C. Geniesse**, K. Chard, Y. Yang, I. Foster, M. Mahoney. **[Mitigating Memorization in Language Models](https://arxiv.org/abs/2410.02159).** *International Conference on Learning Representations (ICLR)*, 2025. [[pdf](https://arxiv.org/pdf/2410.02159)] [[blog](https://mansisak.com/memorization/)]
+- M. Sakarvadia, A. Ajith, A.M. Khan, N.C. Hudson, **C. Geniesse**, K. Chard, Y. Yang, I. Foster, M. Mahoney. **[Mitigating Memorization in Language Models](https://arxiv.org/abs/2410.02159).** *Accepted as a Spotlight at the International Conference on Learning Representations (ICLR)*, 2025. [[pdf](https://arxiv.org/pdf/2410.02159)] [[blog](https://mansisak.com/memorization/)]
 
 - O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *International Symposium on Field Programmable Gate Arrays (FPGA)*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
 
