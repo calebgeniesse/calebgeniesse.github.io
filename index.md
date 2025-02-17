@@ -6,7 +6,7 @@ title:
 
 # Caleb Geniesse
 
-I recently started as a senior machine learning scientist at a stealth health tech startup. More on this soon...
+I recently started as a senior machine learning scientist at a stealth health tech startup. *More on this soon...*
 
 Before this, I was a postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), doing scientific ML (e.g., physics-informed neural networks) and interpretability (e.g., developing new ways to visualize loss landscapes and characterize learning).
 
