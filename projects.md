@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Below are some of the projects I have developed throughout my research. Most of these (and more) can also be found on my [GitHub](https://github.com/calebgeniesse).
+Below are a few of the projects I have developed throughout my research. Most of these (and more) can also be found on my [GitHub](https://github.com/calebgeniesse).
 
 - **[NeuMapper.](https://braindynamicslab.github.io/neumapper/)**&nbsp;A scalable Mapper algorithm for neuroimaging data analysis. The Matlab implementation was designed specifically for working with complex, high-dimensional neuroimaging data and produces a shape graph representation that can be annotated with meta-information and further examined using network science tools.
 
