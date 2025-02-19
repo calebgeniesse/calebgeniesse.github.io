@@ -8,7 +8,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Preprints
 
-- T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025.
+- T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
 
 
 ### Peer-reviewed Articles
