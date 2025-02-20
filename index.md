@@ -39,6 +39,8 @@ where I developed new computational methods (using ML and topological data analy
 
 ### Selected Publications
 
+- T. Xie*, J. Chen*, Y. Yang*, C. Geniesse*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics. IEEE Computer Graphics and Applications, 2024. [pdf] (*equal contribution)
+
 - **C. Geniesse**\*, S. Chowdhury\*, M. Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization](https://doi.org/10.1162/netn_a_00229).** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
 - H. Xie, R. Beaty, S. Jahanikia, **C. Geniesse**, N. Sonalkar, M. Saggar. **[Spontaneous and Deliberate Modes of Creativity: Multitask Eigen-Connectivity Analysis Captures Latent Cognitive Modes During Creative Thinking](https://doi.org/10.1016/j.neuroimage.2021.118531).** *NeuroImage*, 2021.
