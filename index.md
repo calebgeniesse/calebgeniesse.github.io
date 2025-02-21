@@ -19,24 +19,6 @@ where I developed new computational methods (using ML and topological data analy
 
 
 
-### Selected Projects
-
-- **[NeuMapper.](https://braindynamicslab.github.io/neumapper/)**&nbsp;A scalable Mapper algorithm for neuroimaging data analysis. The Matlab implementation was designed specifically for working with complex, high-dimensional neuroimaging data and produces a shape graph representation that can be annotated with meta-information and further examined using network science tools.
-
-- **[Reciprocal Isomap.](https://calebgeniesse.github.io/reciprocal_isomap)**&nbsp;A reciprocal variant of Isomap for robust non-linear dimensionality reduction in Python. The `ReciprocalIsomap` transformer was inspired by scikit-learn's implementation of Isomap, but the reciprocal variant enforces shared connectivity in the underlying *k*-nearest neighbors graph (i.e., two points are only considered neighbors if each is a neighbor of the other).
-
-- **[Landmark Cover.](https://calebgeniesse.github.io/landmark_cover)**&nbsp;A Python implementation of [NeuMapper](https://braindynamicslab.github.io/neumapper/)'s landmark-based cover. The `LandmarkCover` transformer was designed for use with [KeplerMapper](https://kepler-mapper.scikit-tda.org/en/latest/), but rather than dividing an *extrinsic* space (e.g., low-dimensional projection) into overlapping hypercubes, the landmark-based approach directly partitions data points into overlapping subsets based on their *intrinsic* distances from pre-selected landmark points.
-
-- **[DyNeuSR.](https://braindynamicslab.github.io/dyneusr/)**&nbsp;A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizing topological graph representations of functional brain activity.
-
-
-
-<div class="more">
-	<a href="projects/">more projects</a>
-</div>
-
-
-
 ### Selected Publications
 
 - T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*) 
@@ -49,8 +31,22 @@ where I developed new computational methods (using ML and topological data analy
 
 - **C. Geniesse**, O. Sporns, G. Petri, M. Saggar. **[Generating Dynamical Neuroimaging Spatiotemporal Representations (DyNeuSR) Using Topological Data Analysis](https://doi.org/10.1162/netn_a_00093).** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
-
-
 <div class="more">
 	<a href="publications/">more publications</a>
+</div>
+
+
+
+### Selected Projects
+
+- **[NeuMapper.](https://braindynamicslab.github.io/neumapper/)**&nbsp;A scalable Mapper algorithm for neuroimaging data analysis. The Matlab implementation was designed specifically for working with complex, high-dimensional neuroimaging data and produces a shape graph representation that can be annotated with meta-information and further examined using network science tools.
+
+- **[Reciprocal Isomap.](https://calebgeniesse.github.io/reciprocal_isomap)**&nbsp;A reciprocal variant of Isomap for robust non-linear dimensionality reduction in Python. The `ReciprocalIsomap` transformer was inspired by scikit-learn's implementation of Isomap, but the reciprocal variant enforces shared connectivity in the underlying *k*-nearest neighbors graph (i.e., two points are only considered neighbors if each is a neighbor of the other).
+
+- **[Landmark Cover.](https://calebgeniesse.github.io/landmark_cover)**&nbsp;A Python implementation of [NeuMapper](https://braindynamicslab.github.io/neumapper/)'s landmark-based cover. The `LandmarkCover` transformer was designed for use with [KeplerMapper](https://kepler-mapper.scikit-tda.org/en/latest/), but rather than dividing an *extrinsic* space (e.g., low-dimensional projection) into overlapping hypercubes, the landmark-based approach directly partitions data points into overlapping subsets based on their *intrinsic* distances from pre-selected landmark points.
+
+- **[DyNeuSR.](https://braindynamicslab.github.io/dyneusr/)**&nbsp;A Python visualization library for topological representations of neuroimaging data. The package combines visual web components with a high-level Python interface for interacting with, manipulating, and visualizing topological graph representations of functional brain activity.
+
+<div class="more">
+	<a href="projects/">more projects</a>
 </div>
