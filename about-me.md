@@ -15,9 +15,12 @@ I earned my BS in [Molecular and Cellular Biology](https://mcb.illinois.edu/) fr
 
 ### Contact Info
 
+Email: [calebgeniesse \[at\] gmail \[dot\] com]()
+<!--
 Email (*Personal*): [calebgeniesse \[at\] gmail \[dot\] com]()
 <br>
 Email (*Diadia Health*): [caleb \[at\] diadiahealth \[dot\] com]()
+-->
 
 Linkedin: [Caleb Geniesse](https://www.linkedin.com/in/calebgeniesse)
 <br>
