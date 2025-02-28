@@ -21,6 +21,8 @@ where I developed new computational methods (using ML and topological data analy
 
 ### Selected Publications
 
+- T. Xie\*, **C. Geniesse**\*, J. Chen\*, Y. Yang, D. Morozov, M. Mahoney, R. Maciejewski, G.H. Weber. **[Evaluating Loss Landscapes from a Topology Perspective](https://arxiv.org/abs/2411.09807).** *NeurIPS Workshop on Scientific Methods for Understanding Deep Learning (SciForDL)*, 2024. [[pdf](https://arxiv.org/pdf/2411.09807)] (*equal contribution)
+
 - T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*) 
 
 - **C. Geniesse**\*, S. Chowdhury\*, M. Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization](https://doi.org/10.1162/netn_a_00229).** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
