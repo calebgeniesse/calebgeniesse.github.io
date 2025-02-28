@@ -21,6 +21,8 @@ where I developed new computational methods (using ML and topological data analy
 
 ### Selected Publications
 
+- **C. Geniesse**\*, J. Chen\*, T. Xie\*, G. Shi, Y. Yang, D. Morozov, T. Perciano, M. Mahoney, R. Maciejewski,            G.H. Weber. **[Visualizing Loss Functions as Topological Landscape Profiles](https://arxiv.org/abs/2411.12136).** *NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) Proceedings Track*, 2024. [[pdf]((https://arxiv.org/pdf/2411.12136))] (*equal contribution)
+
 - T. Xie\*, **C. Geniesse**\*, J. Chen\*, Y. Yang, D. Morozov, M. Mahoney, R. Maciejewski, G.H. Weber. **[Evaluating Loss Landscapes from a Topology Perspective](https://arxiv.org/abs/2411.09807).** *NeurIPS Workshop on Scientific Methods for Understanding Deep Learning (SciForDL)*, 2024. [[pdf](https://arxiv.org/pdf/2411.09807)] (*equal contribution)
 
 - T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*) 
