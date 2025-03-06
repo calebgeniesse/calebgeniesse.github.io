@@ -33,10 +33,6 @@ where I developed new computational methods (using ML and topological data analy
 - H. Xie, R. Beaty, S. Jahanikia, **C. Geniesse**, N. Sonalkar, M. Saggar. **[Spontaneous and Deliberate Modes of Creativity: Multitask Eigen-Connectivity Analysis Captures Latent Cognitive Modes During Creative Thinking](https://doi.org/10.1016/j.neuroimage.2021.118531).** *NeuroImage*, 2021.
 -->
 
-<!--
-- N. Sonalkar, S. Jahanikia, H. Xie, **C. Geniesse**, R. Ayub, R. Beaty, M. Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity](https://doi.org/10.1007/978-3-030-28960-7_10).** *Design Thinking Research. Understanding Innovation. Springer, Cham*, 2020.
--->
-
 - **C. Geniesse**, O. Sporns, G. Petri, M. Saggar. **[Generating Dynamical Neuroimaging Spatiotemporal Representations (DyNeuSR) Using Topological Data Analysis](https://doi.org/10.1162/netn_a_00093).** *Network Neuroscience*, 2019. [[code](https://braindynamicslab.github.io/dyneusr)] [[demos](https://braindynamicslab.github.io/dyneusr/demo/)]
 
 <div class="more">
