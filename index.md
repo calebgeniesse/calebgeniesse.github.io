@@ -6,7 +6,7 @@ title:
 
 # Caleb Geniesse
 
-I am a senior ML scientist at [Diadia Health](https://diadiahealth.com).
+Hello, I am a senior ML scientist at [Diadia Health](https://diadiahealth.com).
 
 Before this, I was a postdoc in the [Machine Learning & Analytics Group](http://dav.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), doing scientific ML (e.g., physics-informed neural networks) and interpretability (e.g., developing new ways to visualize loss landscapes and characterize learning).
 
