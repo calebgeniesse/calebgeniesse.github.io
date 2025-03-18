@@ -25,6 +25,8 @@ where I developed new computational methods (using ML and topological data analy
 - M. Sakarvadia, A. Ajith, A.M. Khan, N.C. Hudson, **C. Geniesse**, K. Chard, Y. Yang, I. Foster, M. Mahoney. **[Mitigating Memorization in Language Models](https://arxiv.org/abs/2410.02159).** *Spotlight at the International Conference on Learning Representations (ICLR)*, 2025. [[pdf](https://arxiv.org/pdf/2410.02159)] [[blog](https://mansisak.com/memorization/)]
 -->
 
+- T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
+
 - **C. Geniesse**\*, J. Chen\*, T. Xie\*, G. Shi, Y. Yang, D. Morozov, T. Perciano, M. Mahoney, R. Maciejewski, G.H. Weber. **[Visualizing Loss Functions as Topological Landscape Profiles](https://arxiv.org/abs/2411.12136).** *NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) Proceedings Track*, 2024. [[pdf]((https://arxiv.org/pdf/2411.12136))] (*equal contribution)
 
 - T. Xie\*, **C. Geniesse**\*, J. Chen\*, Y. Yang, D. Morozov, M. Mahoney, R. Maciejewski, G.H. Weber. **[Evaluating Loss Landscapes from a Topology Perspective](https://arxiv.org/abs/2411.09807).** *NeurIPS Workshop on Scientific Methods for Understanding Deep Learning (SciForDL)*, 2024. [[pdf](https://arxiv.org/pdf/2411.09807)] (*equal contribution)
