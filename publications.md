@@ -17,7 +17,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *International Symposium on Field Programmable Gate Arrays (FPGA)*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
 
-- **C. Geniesse**\*, J. Chen\*, T. Xie\*, G. Shi, Y. Yang, D. Morozov, T. Perciano, M. Mahoney, R. Maciejewski,            G.H. Weber. **[Visualizing Loss Functions as Topological Landscape Profiles](https://arxiv.org/abs/2411.12136).** *NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) Proceedings Track*, 2024. [[pdf]((https://arxiv.org/pdf/2411.12136))] (*equal contribution)
+- **C. Geniesse**\*, J. Chen\*, T. Xie\*, G. Shi, Y. Yang, D. Morozov, T. Perciano, M. Mahoney, R. Maciejewski,            G.H. Weber. **[Visualizing Loss Functions as Topological Landscape Profiles](https://arxiv.org/abs/2411.12136).** *NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) Proceedings Track*, 2024. [[pdf](https://arxiv.org/pdf/2411.12136)] (*equal contribution)
 
 - T. Xie\*, **C. Geniesse**\*, J. Chen\*, Y. Yang, D. Morozov, M. Mahoney, R. Maciejewski, G.H. Weber. **[Evaluating Loss Landscapes from a Topology Perspective](https://arxiv.org/abs/2411.09807).** *NeurIPS Workshop on Scientific Methods for Understanding Deep Learning (SciForDL)*, 2024. [[pdf](https://arxiv.org/pdf/2411.09807)] (*equal contribution)
 
