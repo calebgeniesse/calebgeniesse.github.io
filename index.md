@@ -25,7 +25,6 @@ where I developed new computational methods (using ML and topological data analy
 
 <!--
 - O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *International Symposium on Field Programmable Gate Arrays (FPGA)*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
--->
 
 - T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
 
