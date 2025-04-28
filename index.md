@@ -23,9 +23,7 @@ where I developed new computational methods (using ML and topological data analy
 
 - M. Sakarvadia, A. Ajith, A.M. Khan, N.C. Hudson, **C. Geniesse**, K. Chard, Y. Yang, I. Foster, M. Mahoney. **[Mitigating Memorization in Language Models](https://arxiv.org/abs/2410.02159).** *Spotlight (top 5%) at the International Conference on Learning Representations (ICLR)*, 2025. [[pdf](https://arxiv.org/pdf/2410.02159)] [[blog](https://mansisak.com/memorization/)]
 
-<!--
 - T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
--->
 
 <!--
 - O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *International Symposium on Field Programmable Gate Arrays (FPGA)*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
@@ -35,10 +33,10 @@ where I developed new computational methods (using ML and topological data analy
 
 - T. Xie\*, **C. Geniesse**\*, J. Chen\*, Y. Yang, D. Morozov, M. Mahoney, R. Maciejewski, G.H. Weber. **[Evaluating Loss Landscapes from a Topology Perspective](https://arxiv.org/abs/2411.09807).** *NeurIPS Workshop on Scientific Methods for Understanding Deep Learning (SciForDL)*, 2024. [[pdf](https://arxiv.org/pdf/2411.09807)] (*equal contribution)
 
-- T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*) 
+- T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*)
 
 - S.K.L. Quah, B. Jo, **C. Geniesse**, L.Q. Uddin, J.A. Mumford, D.M. Barch, D.A. Fair, I.H. Gotlib, R.A. Poldrack, M. Saggar. **[A Data-Driven Latent Variable Approach to Validating the Research Domain Criteria Framework](https://doi.org/10.1038/s41467-025-55831-z).** *Nature Communications*, 2024.
-  
+
 - **C. Geniesse**\*, S. Chowdhury\*, M. Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization](https://doi.org/10.1162/netn_a_00229).** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
 - H. Xie, R. Beaty, S. Jahanikia, **C. Geniesse**, N. Sonalkar, M. Saggar. **[Spontaneous and Deliberate Modes of Creativity: Multitask Eigen-Connectivity Analysis Captures Latent Cognitive Modes During Creative Thinking](https://doi.org/10.1016/j.neuroimage.2021.118531).** *NeuroImage*, 2021.
