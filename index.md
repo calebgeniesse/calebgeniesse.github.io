@@ -37,9 +37,7 @@ where I developed new computational methods (using ML and topological data analy
 
 - T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*)
 
-<!--
 - S.K.L. Quah, B. Jo, **C. Geniesse**, L.Q. Uddin, J.A. Mumford, D.M. Barch, D.A. Fair, I.H. Gotlib, R.A. Poldrack, M. Saggar. **[A Data-Driven Latent Variable Approach to Validating the Research Domain Criteria Framework](https://doi.org/10.1038/s41467-025-55831-z).** *Nature Communications*, 2024.
--->
 
 - **C. Geniesse**\*, S. Chowdhury\*, M. Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization](https://doi.org/10.1162/netn_a_00229).** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
