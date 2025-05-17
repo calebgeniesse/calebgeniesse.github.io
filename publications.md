@@ -8,7 +8,7 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 ### Preprints
 
-- K. Tallam, J.K. Cava, **C. Geniesse**, N.B. Erichson, M.W. Mahoney. **[Removing Watermarks with Partial Regeneration using Semantic Information](https://arxiv.org/abs/2505.08234).** *arXiv*, 2025.
+- K. Tallam, J.K. Cava, **C. Geniesse**, N.B. Erichson, M.W. Mahoney. **[Removing Watermarks with Partial Regeneration using Semantic Information](https://arxiv.org/abs/2505.08234).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2505.08234)]
 
 - T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
 
