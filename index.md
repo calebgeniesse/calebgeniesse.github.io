@@ -27,9 +27,9 @@ where I developed new computational methods (using ML and topological data analy
 
 <!--
 - T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
--->
 
 - O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *International Symposium on Field Programmable Gate Arrays (FPGA)*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
+-->
 
 - **C. Geniesse**\*, J. Chen\*, T. Xie\*, G. Shi, Y. Yang, D. Morozov, T. Perciano, M. Mahoney, R. Maciejewski, G.H. Weber. **[Visualizing Loss Functions as Topological Landscape Profiles](https://arxiv.org/abs/2411.12136).** *NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) Proceedings Track*, 2024. [[pdf](https://arxiv.org/pdf/2411.12136)] (*equal contribution)
 
@@ -37,7 +37,9 @@ where I developed new computational methods (using ML and topological data analy
 
 - T. Xie\*, J. Chen\*, Y. Yang\*, **C. Geniesse**\*, G. Shi, A. Chaudhari, J.K. Cava, M.W. Mahoney, T. Perciano, G.H. Weber, R. Maciejewski. **[LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics](https://ieeexplore.ieee.org/abstract/document/10804049/).** *IEEE Computer Graphics and Applications*, 2024. [[pdf](https://arxiv.org/pdf/2412.13321)] (*\*equal contribution*)
 
+<!--
 - S.K.L. Quah, B. Jo, **C. Geniesse**, L.Q. Uddin, J.A. Mumford, D.M. Barch, D.A. Fair, I.H. Gotlib, R.A. Poldrack, M. Saggar. **[A Data-Driven Latent Variable Approach to Validating the Research Domain Criteria Framework](https://doi.org/10.1038/s41467-025-55831-z).** *Nature Communications*, 2024.
+-->
 
 - **C. Geniesse**\*, S. Chowdhury\*, M. Saggar. **[NeuMapper: A Scalable Computational Framework for Multiscale Exploration of the Brain's Dynamical Organization](https://doi.org/10.1162/netn_a_00229).** *Network Neuroscience*, 2022. [[code](https://braindynamicslab.github.io/neumapper)] (*\*equal contribution*) 
 
