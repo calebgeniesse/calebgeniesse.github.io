@@ -57,7 +57,11 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 
 - N. Sonalkar, S. Jahanikia, H. Xie, **C. Geniesse**, R. Ayub, R. Beaty, M. Saggar. **[Mining the Role of Design Reflection and Associated Brain Dynamics in Creativity](https://doi.org/10.1007/978-3-030-28960-7_10).** *Design Thinking Research. Understanding Innovation. Springer, Cham*, 2020.
 
+<!--
+### Patent Applications
 
+- M. Saggar, S. Chowdhury, **C. Geniesse**. **[Systems and Methods for Scalable Mapping of Brain Dynamics](https://patents.google.com/patent/US20230112375A1/en).** *US Patent App. 18/045,772*, 2023
+-->
 
 ### Conference Abstracts
 
