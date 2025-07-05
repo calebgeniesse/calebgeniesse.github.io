@@ -25,11 +25,9 @@ where I developed new computational methods (using ML and topological data analy
 
 - K. Tallam\*, J.K. Cava\*, **C. Geniesse**\*, N.B. Erichson, M.W. Mahoney. **[Removing Watermarks with Partial Regeneration using Semantic Information](https://arxiv.org/abs/2505.08234).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2505.08234)] (*equal contribution)
 
-<!--
 - T. Baldi, J. Campos, O. Weng, **C. Geniesse**, N. Tran, R. Kastner, A. Biondi. **[Loss Landscape Analysis for Reliable Quantized ML Models for Scientific Sensing](https://arxiv.org/abs/2502.08355).** *arXiv*, 2025. [[pdf](https://arxiv.org/pdf/2502.08355)]
 
 - O. Weng, M. Andronic, D. Zuberi, J. Chen, **C. Geniesse**, G.A. Constantinides, N. Tran, N. Fraser, J. Duarte, R. Kastner. **[Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT](https://doi.org/10.1145/3706628.3708874).** *International Symposium on Field Programmable Gate Arrays (FPGA)*, 2025. [[pdf](https://kastner.ucsd.edu/wp-content/uploads/2025/01/admin/fpga25-amigoLUT.pdf)]
--->
 
 - **C. Geniesse**\*, J. Chen\*, T. Xie\*, G. Shi, Y. Yang, D. Morozov, T. Perciano, M. Mahoney, R. Maciejewski, G.H. Weber. **[Visualizing Loss Functions as Topological Landscape Profiles](https://arxiv.org/abs/2411.12136).** *NeurIPS Workshop on Symmetry and Geometry in Neural Representations (NeurReps) Proceedings Track*, 2024. [[pdf](https://arxiv.org/pdf/2411.12136)] (*equal contribution)
 
