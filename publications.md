@@ -63,13 +63,11 @@ A more complete list can be found on [Google Scholar](https://scholar.google.com
 - M. Saggar, S. Chowdhury, **C. Geniesse**. **[Systems and Methods for Scalable Mapping of Brain Dynamics](https://patents.google.com/patent/US20230112375A1/en).** *US Patent App. 18/045,772*, 2023
 
 
-### Conference Abstracts
+### Posters
 
 <!--
 - E. Tran, **C. Geniesse**, E. Finn, M. Saggar. **<a style="text-decoration:none">Linking Event Memories Formed During Naturalistic Narratives with Attentional Engagement and Emotion</a>.** *Organization for Human Brain Mapping (OHBM) Annual Meeting*, 2023.
---> 
 
-<!--
 - D. Haşegan, **C. Geniesse**, S. Chowdhury, M. Saggar. **<a style="text-decoration:none">Deconstructing Mapper to Reveal the Brain’s Dynamic Organization</a>.** *Computational Psychiatry Course*, 2022.
 -->
 
